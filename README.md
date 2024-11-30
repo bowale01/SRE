@@ -3,7 +3,7 @@ SRE
 
 # Principles
 
-Embracing Risk
+## Embracing Risk :- https://sre.google/sre-book/embracing-risk/
 
 Service Level Objectives
 
