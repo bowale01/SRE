@@ -78,7 +78,7 @@ Anytime other team has been impacted
 
 
 
- See  Blameless Postmortems to see how to perform them
+ See  Blameless Postmortems https://github.com/bowale01/SRE/blob/main/Blameless%20postmortem.md  to see how to perform them
 
 A quick checklist to see if we are ready for incidents.
 
