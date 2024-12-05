@@ -3,6 +3,8 @@
 
 # Principles 
 
+#### SLOs for critical infrastructure  :- https://tech.autoscout24.com/blog/posts/slos-for-critical-user-interactions/
+
 #### Embracing Risk :- https://sre.google/sre-book/embracing-risk/
 
 #### Service Level Objectives :- https://sre.google/sre-book/service-level-objectives/
